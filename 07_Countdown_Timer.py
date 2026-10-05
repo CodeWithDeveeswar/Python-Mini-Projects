@@ -1,6 +1,4 @@
 # Countdown Timer (terminal)
-# Create a terminal countdown timer using time.sleep(), loops and time formatting.
-# Concepts: TIME • LOOPS • F-STRINGS
 
 import time
 import winsound
