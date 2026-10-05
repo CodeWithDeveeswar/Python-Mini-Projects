@@ -1,6 +1,4 @@
 # Even or Odd Checker
-# Check if a number is even or odd using the modulo operator and ternary expression.
-# Concepts: MODULO • TERNARY
 
 num = int(input("Enter a number: "))
 
