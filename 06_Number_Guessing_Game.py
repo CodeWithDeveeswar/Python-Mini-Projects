@@ -1,6 +1,4 @@
 # Number Guessing Game
-# Guess the number with loops, random module and conditionals.
-# Concepts: LOOPS • RANDOM • CONDITIONALS
 
 import random
 
