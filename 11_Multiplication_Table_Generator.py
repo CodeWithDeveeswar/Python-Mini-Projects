@@ -1,13 +1,13 @@
 # Multiplication Table Generator
 
-num = int(input("Enter a number: "))
+num = int(input("\nEnter a number: "))
 
-for i in range(1, 11):
+for i in range(1, 21):
     print(f"{num} x {i} = {num * i}")
 
 # Challenge: Generate a multiplication table without using a for loop.
 
-num = int(input("Enter a number: "))
+num = int(input("\nEnter a number: "))
 
 i = 1
 
