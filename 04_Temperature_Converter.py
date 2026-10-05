@@ -1,6 +1,4 @@
 # Temperature Converter (Celsius to Fahrenheit)
-# Convert temperatures between Celsius and Fahrenheit using formulas and f-strings.
-# Concepts: INPUT • ARITHMETIC • F-STRINGS
 
 celsius = float(input("Enter temp in Celsius: "))
 
