@@ -1,6 +1,4 @@
 # BMI Calculator
-# Calculate BMI using weight and height, then classify the BMI category.
-# Concepts: INPUT • ARITHMETIC • CONDITIONALS • F-STRINGS
 
 # 1. Inputs
 weight = float(input("Weight (kg): "))
