@@ -1,6 +1,4 @@
 # Password Strength Checker
-# Check if a password is strong using at least 8 characters, one uppercase letter, one digit and one symbol.
-# Concepts: CONDITIONALS • STRINGS • REGEX
 
 import re
 
