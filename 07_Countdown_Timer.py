@@ -1,4 +1,4 @@
-# Countdown Timer (terminal)
+# Countdown Timer
 
 import time
 import winsound
