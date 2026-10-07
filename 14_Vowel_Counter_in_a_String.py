@@ -1,6 +1,6 @@
 # Vowel Counter in a String 
 
-text = input("Enter a sentence: ")
+text = input("Enter a sentence: ").lower()
 
 vowels = "aeiou"
 count = 0
@@ -13,7 +13,7 @@ print(f"Total Vowels: {count}")
 
 # Challenge: Can you solve this in one line using sum() and list comprehension?
 
-Text = input("Enter a sentence: ")
+Text = input("Enter a sentence: ").lower()
 
 vowels = "aeiou"
 
