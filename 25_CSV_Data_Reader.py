@@ -8,4 +8,3 @@ with open("students.csv", "r") as f:
 
     for row in reader:
         print(f"{row[0]} scored {row[1]}")
-
